@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbrass_zone=self.webpackChunkbrass_zone||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/zh-Hans/blog/welcome","unlisted":false,"date":"2024-10-30T00:00:00.000Z"}]}')}}]);

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://barrhavenresidents.github.io/blog</id>
+    <id>https://barrhavenresidents.github.io/brass-website/blog</id>
     <title>CALL TO ACTION! Blog</title>
     <updated>2024-10-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://barrhavenresidents.github.io/blog"/>
+    <link rel="alternate" href="https://barrhavenresidents.github.io/brass-website/blog"/>
     <subtitle>CALL TO ACTION! Blog</subtitle>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://barrhavenresidents.github.io/blog/welcome</id>
-        <link href="https://barrhavenresidents.github.io/blog/welcome"/>
+        <id>https://barrhavenresidents.github.io/brass-website/blog/welcome</id>
+        <link href="https://barrhavenresidents.github.io/brass-website/blog/welcome"/>
         <updated>2024-10-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is an example post.]]></summary>
         <content type="html"><![CDATA[<p>This is an example post.</p>]]></content>

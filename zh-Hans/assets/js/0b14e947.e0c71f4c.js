@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbrass_zone=self.webpackChunkbrass_zone||[]).push([[7],{9649:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/brass-website/zh-Hans/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

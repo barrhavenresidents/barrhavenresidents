@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>CALL TO ACTION! Blog</title>
-        <link>https://barrhavenresidents.github.io/zh-Hans/blog</link>
+        <link>https://barrhavenresidents.github.io/brass-website/zh-Hans/blog</link>
         <description>CALL TO ACTION! Blog</description>
         <lastBuildDate>Wed, 30 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>zh-Hans</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://barrhavenresidents.github.io/zh-Hans/blog/welcome</link>
-            <guid>https://barrhavenresidents.github.io/zh-Hans/blog/welcome</guid>
+            <link>https://barrhavenresidents.github.io/brass-website/zh-Hans/blog/welcome</link>
+            <guid>https://barrhavenresidents.github.io/brass-website/zh-Hans/blog/welcome</guid>
             <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[This is an example post.]]></description>
             <content:encoded><![CDATA[<p>This is an example post.</p>]]></content:encoded>
