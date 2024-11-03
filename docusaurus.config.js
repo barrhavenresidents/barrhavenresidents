@@ -124,6 +124,7 @@ const config = {
           },
         ],
         // copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: 'This website is maintained as a technical service for BRASS. The developer is not responsible for site content.',
       },
       prism: {
         theme: prismThemes.github,

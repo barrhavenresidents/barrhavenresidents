@@ -2,6 +2,8 @@
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
+This website is maintained as a technical service for BRASS. The developer is not responsible for site content.
+
 ### Installation
 
 ```
